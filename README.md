@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishikeshkharade
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java DSA
+- 🌱 I’m currently learning OS
 - 📫 How to reach me rishikesh_kharade IG
 
 <!---
