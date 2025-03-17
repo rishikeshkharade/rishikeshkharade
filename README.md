@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishikeshkharade
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning OS
+- 🌱 I’m currently learning MS SQL
 - 📫 How to reach me rishikesh_kharade IG
 
 <!---
